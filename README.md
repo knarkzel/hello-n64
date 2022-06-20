@@ -1,6 +1,6 @@
 # hello-n64
 
-`Hello world` in N64. 
+`Hello world!\n` in N64. 
 
 ```
 paru -S git make gcc mips64-elf-gcc mupen64plus
